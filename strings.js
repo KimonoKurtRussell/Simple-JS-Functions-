@@ -1,2 +1,2 @@
 var somestring = "this is a string";
-console.log
+console.log(somestring)

@@ -1,3 +1,3 @@
 var example = "example string";
 example.length
-console.log
+console.log(14)
